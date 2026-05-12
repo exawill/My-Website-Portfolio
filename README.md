@@ -9,6 +9,8 @@ A high-performance, minimalist personal portfolio designed to showcase my journe
 ## 🚀 Overview
 This repository contains the source code for my professional portfolio website. The site is designed to be a digital resume and project hub, reflecting a "clean-code" philosophy and a professional aesthetic.
 
+## Try Look Up my Website [Portfolio](https://mfrasyad.xyz/)
+
 ## 🛠️ Tech Stack
 * **Framework:** [React.js](https://reactjs.org/)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
