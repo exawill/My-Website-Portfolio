@@ -1,0 +1,11 @@
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Disallow specific sensitive or private directories (examples)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Reference the sitemap location
+Sitemap: https://mfrasyad.xyz/sitemap.xml
